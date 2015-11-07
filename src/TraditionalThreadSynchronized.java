@@ -16,7 +16,7 @@ public class TraditionalThreadSynchronized {
 					}catch(InterruptedException e){
 						e.printStackTrace();
 					}
-					outputer.output("luyushan");
+					outputer.output("luyushan1111");
 				}
 			}
 		}).start();
